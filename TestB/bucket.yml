@@ -2,8 +2,14 @@ flows:
   af6f05c5-8fb2-4da6-96f7-12556bf4e8f8: {ver: 1, file: TestGit.snapshot, comments: '',
     author: sachin.mehndiratta@globallogic.com, created: 1674627587176, flowName: TestGit,
     flowDesc: ''}
-  c00323ad-7068-45a1-ac46-47bd05d46b60: {ver: 1, file: nelson.snapshot, comments: '',
-    author: sachin.mehndiratta@globallogic.com, created: 1674634009676, flowName: nelson,
-    flowDesc: ''}
+  c00323ad-7068-45a1-ac46-47bd05d46b60:
+    ver: 2
+    file: nelson.snapshot
+    comments: |
+      version 1
+    author: sachin.mehndiratta@globallogic.com
+    created: 1674634138975
+    flowName: nelson
+    flowDesc: ''
 layoutVer: 1
 bucketId: e0c94f79-0647-45a3-bafb-438a4be6f116
